@@ -1,2 +1,4 @@
 ﻿  main.cpp
-  EigenClock.vcxproj -> C:\Users\lcuev\Documents\Art\EigenClock\x64\Debug\EigenClock.exe
+C:\Users\lcuev\Documents\EigenClock\EigenClock\main.cpp(143,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lcuev\Documents\EigenClock\EigenClock\main.cpp(192,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  EigenClock.vcxproj -> C:\Users\lcuev\Documents\EigenClock\x64\Debug\EigenClock.exe
